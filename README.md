@@ -21,3 +21,5 @@ Image-Name-Tag-Explorer
   5. `pip install -r requiremenets.txt`
   6. `cd app/src`
   7. `python run.py` or `python3 run.py`
+
+قرار در آینده بهش چیزهای زیادی اضافه کنم
