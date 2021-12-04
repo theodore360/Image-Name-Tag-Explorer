@@ -10,7 +10,7 @@ Image-Name-Tag-Explorer
   1. install python -> `python.org`
   2. clone project  -> `git clone https://github.com/morteza2007h-dev/Image-Name-Tag-Explorer.git`
   3. `cd Image-Name-Tag-Explorer`
-  4. create virtualenv and activate
+  4. ### create virtualenv and activate:
     1. on windows
       1. `python -m venv venv` 
       2. `venv\Script\activate.bat`
