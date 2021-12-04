@@ -11,13 +11,13 @@ Image-Name-Tag-Explorer
   2. clone project  -> `git clone https://github.com/morteza2007h-dev/Image-Name-Tag-Explorer.git`
   3. `cd Image-Name-Tag-Explorer`
   4. ### create virtualenv and activate:
-    1. #### on windows
-      1. `python -m venv venv` 
-      2. `venv\Script\activate.bat`
-    2. #### on linux:
-      1. `sudo apt install virtualenv`
-      2. `virtualenv venv`
-      3. 'source venv\bin\activate`
+    1. on windows
+      1. python -m venv venv
+      2. venv\Script\activate.bat
+    2. on linux:
+      1. sudo apt install virtualenv
+      2. virtualenv venv
+      3. source venv\bin\activate
   5. `pip install -r requiremenets.txt`
   6. `cd app/src`
   7. `python run.py` or `python3 run.py`
